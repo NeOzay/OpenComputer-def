@@ -1,0 +1,10 @@
+{
+	"name"   : "OpenComputers",
+	"words"  : [
+		"require%s*%(%s*['\"]component['\"]%s*%)",
+		"mineOS"
+	],
+	"settings" : {
+		 "Lua.runtime.version" : "Lua 5.3"
+	}
+}
